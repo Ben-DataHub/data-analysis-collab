@@ -1,1 +1,1 @@
-Objectif : analyser les ventes par catégorie
+Objectif : analyser les ventes par produit et par categorie
